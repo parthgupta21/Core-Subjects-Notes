@@ -1,8 +1,8 @@
 # Object
 
-## Objects are instances of class. When a class is defined, no memeory is allocated. But wheen it is instanciated, memory is allocated. 
+### Objects are instances of class. When a class is defined, no memeory is allocated. But wheen it is instanciated, memory is allocated. 
 
-
+## Code
 ``` cpp
 class geek
 {
